@@ -47,8 +47,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "material-icon-theme",
-        "label": "Material Icon Theme",
+        "id": "gruvbox-material-icon-theme",
+        "label": "Gruvbox Material Icon Theme",
         "path": "./dist/material-icons.json",
         "_watch": true
       }
