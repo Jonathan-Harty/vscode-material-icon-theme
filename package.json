@@ -2,7 +2,7 @@
   "name": "gruvbox-material-icon-theme",
   "displayName": "Gruvbox Material Icon Theme",
   "description": "Gruvbox Material Icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "JonathanHarty",
   "engines": {
     "vscode": "^1.51.0"
@@ -40,12 +40,7 @@
     },
     "virtualWorkspaces": true
   },
-  "activationEvents": [
-    "*"
-  ],
-  "main": "./dist/extension",
-  "contributes": {
-    "iconThemes": [
+  "activatiextension manifest is not founds": [
       {
         "id": "gruvbox-material-icon-theme",
         "label": "Gruvbox Material Icon Theme",
