@@ -40,7 +40,12 @@
     },
     "virtualWorkspaces": true
   },
-  "activatiextension manifest is not founds": [
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./dist/extension",
+  "contributes": {
+    "iconThemes": [
       {
         "id": "gruvbox-material-icon-theme",
         "label": "Gruvbox Material Icon Theme",
