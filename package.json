@@ -1,16 +1,16 @@
 {
-  "name": "material-icon-theme",
-  "displayName": "Material Icon Theme",
-  "description": "Material Design Icons for Visual Studio Code",
-  "version": "4.6.0",
-  "publisher": "PKief",
+  "name": "gruvbox-material-icon-theme",
+  "displayName": "Gruvbox Material Icon Theme",
+  "description": "Gruvbox Material Icons",
+  "version": "1.0.0",
+  "publisher": "JonathanHarty",
   "engines": {
     "vscode": "^1.51.0"
   },
-  "homepage": "https://github.com/PKief/vscode-material-icon-theme/blob/main/README.md",
+  "homepage": "https://github.com/Jonathan-Harty/vscode-material-icon-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PKief/vscode-material-icon-theme.git"
+    "url": "https://github.com/Jonathan-Harty/vscode-material-icon-theme.git"
   },
   "bugs": {
     "url": "https://github.com/PKief/vscode-material-icon-theme/issues"

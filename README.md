@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/logo.png" alt="logo" width="200">
+    <img src="./logo.png" alt="logo" width="200">
   <br><br>
   Material Icon Theme Gruvbox Material
   <br>
