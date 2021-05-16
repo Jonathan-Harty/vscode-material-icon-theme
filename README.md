@@ -23,11 +23,11 @@
 
 ### File icons
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png" alt="file icons">
+<img src="./images/fileIcons.png" alt="file icons">
 
 ### Folder icons
 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/folderIcons.png" alt="folder icons">
+<img src="./images/folderIcons.png" alt="folder icons">
 
 #### Customize folder color
 
