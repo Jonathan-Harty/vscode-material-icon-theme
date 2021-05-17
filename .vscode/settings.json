@@ -4,5 +4,6 @@
   },
   "search.exclude": {
     "out": true
-  }
+  },
+  "svg.preview.background": "transparent"
 }
