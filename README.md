@@ -3,6 +3,7 @@
     <img src="./logo.png" alt="logo" width="200">
   <br><br>
   Material Icon Theme Gruvbox Material
+  Based on https://github.com/sainnhe/gruvbox-material
   <br>
   <br>
 </h1>
