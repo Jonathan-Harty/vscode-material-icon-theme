@@ -140,7 +140,7 @@ export const createIconFile = (
 export const getDefaultIconOptions = (): IconJsonOptions => ({
   folders: {
     theme: 'specific',
-    color: '#90a4ae',
+    color: '#45403d',
     associations: {},
   },
   activeIconPack: 'angular',
