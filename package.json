@@ -167,7 +167,7 @@
         },
         "material-icon-theme.folders.color": {
           "type": "string",
-          "default": "#90a4ae",
+          "default": "#45403d",
           "pattern": "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$",
           "description": "%configuration.folders.color%"
         },
