@@ -2,7 +2,7 @@
   "name": "gruvbox-material-icon-theme",
   "displayName": "Gruvbox Material Icon Theme",
   "description": "Gruvbox Material Icons",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "publisher": "JonathanHarty",
   "engines": {
     "vscode": "^1.51.0"
