@@ -120,6 +120,7 @@ export const fileIcons: FileIcons = {
         'pbm',
         'pgm',
         'pnm',
+        'avif',
       ],
     },
     { name: 'javascript', fileExtensions: ['esx', 'mjs'] },
@@ -479,7 +480,10 @@ export const fileIcons: FileIcons = {
     },
     { name: 'virtual', fileExtensions: ['vdi', 'vbox', 'vbox-prev'] },
     { name: 'email', fileExtensions: ['ics'], fileNames: ['.mailmap'] },
-    { name: 'audio', fileExtensions: ['mp3', 'flac', 'm4a', 'wma', 'aiff', 'wav'] },
+    {
+      name: 'audio',
+      fileExtensions: ['mp3', 'flac', 'm4a', 'wma', 'aiff', 'wav'],
+    },
     { name: 'coffee', fileExtensions: ['coffee', 'cson', 'iced'] },
     { name: 'document', fileExtensions: ['txt'] },
     {
@@ -1177,7 +1181,7 @@ export const fileIcons: FileIcons = {
         'tailwind.ts',
         'tailwind.config.js',
         'tailwind.config.ts',
-        'tailwind.config.cjs'
+        'tailwind.config.cjs',
       ],
     },
     {
