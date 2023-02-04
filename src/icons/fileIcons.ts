@@ -479,7 +479,10 @@ export const fileIcons: FileIcons = {
     },
     { name: 'virtual', fileExtensions: ['vdi', 'vbox', 'vbox-prev'] },
     { name: 'email', fileExtensions: ['ics'], fileNames: ['.mailmap'] },
-    { name: 'audio', fileExtensions: ['mp3', 'flac', 'm4a', 'wma', 'aiff', 'wav'] },
+    {
+      name: 'audio',
+      fileExtensions: ['mp3', 'flac', 'm4a', 'wma', 'aiff', 'wav'],
+    },
     { name: 'coffee', fileExtensions: ['coffee', 'cson', 'iced'] },
     { name: 'document', fileExtensions: ['txt'] },
     {
@@ -1177,7 +1180,7 @@ export const fileIcons: FileIcons = {
         'tailwind.ts',
         'tailwind.config.js',
         'tailwind.config.ts',
-        'tailwind.config.cjs'
+        'tailwind.config.cjs',
       ],
     },
     {
@@ -1440,5 +1443,16 @@ export const fileIcons: FileIcons = {
     { name: 'lilypond', fileExtensions: ['ly'] },
     { name: 'chess', fileExtensions: ['pgn', 'fen'], light: true },
     { name: 'gemini', fileExtensions: ['gmi', 'gemini'] },
+    {
+      name: 'vitest',
+      fileNames: [
+        'vitest.config.ts',
+        'vitest.config.mts',
+        'vitest.config.cts',
+        'vitest.config.js',
+        'vitest.config.mjs',
+        'vitest.config.cjs',
+      ],
+    },
   ],
 };
